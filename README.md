@@ -1,2 +1,5 @@
 # hello-world
-Hello world begining repository
+
+Zmiana w pliku
+
+Taka mała zmiana dla testu.
